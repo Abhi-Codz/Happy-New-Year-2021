@@ -41,7 +41,7 @@ function draw()
 
     fill('turquoise');
     textSize(20);
-    text('BY-ABHINAV MISHRA', 350, 35)
+    text('BY-ABHINAV MISHRA', 350, 50)
     
 
     drawSprites();
