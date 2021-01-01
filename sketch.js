@@ -39,7 +39,7 @@ function draw()
     fireWorks.position(176, 446);
     fireWorks.size(200, 150);
 
-    fill('cyan');
+    fill('turquoise');
     textSize(20);
     text('BY-ABHINAV MISHRA', 350, 20)
     
